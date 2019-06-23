@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Malte S. Kurz</title>
+    <link>https://MalteKurz.github.io/post/</link>
+    <description>Recent content in Posts on Malte S. Kurz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Malte S. Kurz</copyright>
+    <lastBuildDate>Wed, 19 Jun 2019 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://MalteKurz.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Python Implementation of Triangles for Visualising Long-Term Investment Metrics</title>
+      <link>https://MalteKurz.github.io/post/return-triangles/</link>
+      <pubDate>Wed, 19 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://MalteKurz.github.io/post/return-triangles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trade Cost Optimisation II: Tracking Error and the Cutting Plane Algorithm</title>
+      <link>https://MalteKurz.github.io/post/trade-cost-optimization2/</link>
+      <pubDate>Wed, 29 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://MalteKurz.github.io/post/trade-cost-optimization2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trade Cost Optimisation</title>
+      <link>https://MalteKurz.github.io/post/trade-cost-optimization/</link>
+      <pubDate>Wed, 08 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://MalteKurz.github.io/post/trade-cost-optimization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
