@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019-2020 Malte S. Kurz</copyright>
-    <lastBuildDate>Fri, 05 Apr 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://MalteKurz.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Estimating Correlations for Asynchronously Observed Returns</title>
+      <link>https://MalteKurz.github.io/publication/asynchronous_correlations/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://MalteKurz.github.io/publication/asynchronous_correlations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Python Implementation of Triangles for Visualising Long-Term Investment Metrics</title>
+      <link>https://MalteKurz.github.io/publication/return_triangles/</link>
+      <pubDate>Wed, 19 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://MalteKurz.github.io/publication/return_triangles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trade Cost Optimisation II: Tracking Error and the Cutting Plane Algorithm</title>
+      <link>https://MalteKurz.github.io/publication/trade_cost_optimization_2/</link>
+      <pubDate>Wed, 29 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://MalteKurz.github.io/publication/trade_cost_optimization_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trade Cost Optimisation</title>
+      <link>https://MalteKurz.github.io/publication/trade_cost_optimization/</link>
+      <pubDate>Wed, 08 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://MalteKurz.github.io/publication/trade_cost_optimization/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Simplified vine copula models: Approximations based on the simplifying assumption</title>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 on Malte S. Kurz</title>
+    <link>https://MalteKurz.github.io/publication_types/7/</link>
+    <description>Recent content in 7 on Malte S. Kurz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019-2020 Malte S. Kurz</copyright>
+    <lastBuildDate>Thu, 29 Aug 2019 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://MalteKurz.github.io/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Estimating Correlations for Asynchronously Observed Returns</title>
+      <link>https://MalteKurz.github.io/publication/asynchronous_correlations/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://MalteKurz.github.io/publication/asynchronous_correlations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Python Implementation of Triangles for Visualising Long-Term Investment Metrics</title>
+      <link>https://MalteKurz.github.io/publication/return_triangles/</link>
+      <pubDate>Wed, 19 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://MalteKurz.github.io/publication/return_triangles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trade Cost Optimisation II: Tracking Error and the Cutting Plane Algorithm</title>
+      <link>https://MalteKurz.github.io/publication/trade_cost_optimization_2/</link>
+      <pubDate>Wed, 29 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://MalteKurz.github.io/publication/trade_cost_optimization_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trade Cost Optimisation</title>
+      <link>https://MalteKurz.github.io/publication/trade_cost_optimization/</link>
+      <pubDate>Wed, 08 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://MalteKurz.github.io/publication/trade_cost_optimization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
