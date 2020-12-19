@@ -39,24 +39,23 @@
     </item>
     
     <item>
+      <title>Software</title>
+      <link>https://MalteKurz.github.io/home/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://MalteKurz.github.io/home/software/</guid>
+      <description>Python package DoubleML (&amp;ldquo;Double Machine Learning in Python&amp;rdquo;) with P. Bach, V. Chernozhukov and M. Spindler    [ conda-forge, Package source, Documentation, Bug reports ]
+ R package DoubleML (&amp;ldquo;Double Machine Learning in R&amp;rdquo;) with P. Bach, V. Chernozhukov and M. Spindler   [ CRAN, Package source, Documentation, Bug reports ]
+ R package pacotest (&amp;ldquo;Testing for Partial Copulas and the Simplifying Assumption in Vine Copulas&amp;rdquo;)   [ CRAN, Package source, Documentation, Bug reports ]</description>
+    </item>
+    
+    <item>
       <title>Blog Articles</title>
       <link>https://MalteKurz.github.io/home/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://MalteKurz.github.io/home/posts/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Software</title>
-      <link>https://MalteKurz.github.io/home/software/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://MalteKurz.github.io/home/software/</guid>
-      <description>R-package pacotest (&amp;ldquo;Testing for Partial Copulas and the Simplifying Assumption in Vine Copulas&amp;rdquo;)     [ CRAN, Package source, Documentation, Bug reports ]
- Matlab toolbox VineCopulaMatlab (&amp;ldquo;A MATLAB toolbox for vine copulas based on C++&amp;rdquo;) [ Package source, Documentation, Bug reports ]
- C++ library VineCopulaCPP (&amp;ldquo;A C++ library for vine copulas&amp;rdquo;) [ Package source, Documentation, Bug reports ]
- Matlab code SSMwLS (&amp;ldquo;State Space Model with Lagged State (SSMwLS) in the measurement equation&amp;rdquo;) [ Package source, Bug reports ]</description>
     </item>
     
     <item>
