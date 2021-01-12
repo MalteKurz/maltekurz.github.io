@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019-2020 Malte S. Kurz</copyright>
-    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://MalteKurz.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Distributed Double Machine Learning with a Serverless Architecture</title>
+      <link>https://MalteKurz.github.io/publication/doubleml_serverless/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://MalteKurz.github.io/publication/doubleml_serverless/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Risk Assessment and Spurious Seasonality</title>
