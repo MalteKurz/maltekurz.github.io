@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019-2020 Malte S. Kurz</copyright>
-    <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 07 Apr 2021 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://MalteKurz.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,27 +15,54 @@
     <item>
       <title>**Malte S. Kurz**</title>
       <link>https://MalteKurz.github.io/authors/malte-s.-kurz/</link>
-      <pubDate>Mon, 11 Jan 2021 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0200</pubDate>
       
       <guid>https://MalteKurz.github.io/authors/malte-s.-kurz/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>, Martin Spindler</title>
+      <link>https://MalteKurz.github.io/authors/-martin-spindler/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://MalteKurz.github.io/authors/-martin-spindler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fabian Spanhel</title>
       <link>https://MalteKurz.github.io/authors/fabian-spanhel/</link>
-      <pubDate>Fri, 05 Apr 2019 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0100</pubDate>
       
       <guid>https://MalteKurz.github.io/authors/fabian-spanhel/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Philipp Bach</title>
+      <link>https://MalteKurz.github.io/authors/philipp-bach/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://MalteKurz.github.io/authors/philipp-bach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Stefan Mittnik</title>
       <link>https://MalteKurz.github.io/authors/stefan-mittnik/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 14 Feb 2021 00:00:00 +0100</pubDate>
       
       <guid>https://MalteKurz.github.io/authors/stefan-mittnik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Victor Chernozhukov</title>
+      <link>https://MalteKurz.github.io/authors/victor-chernozhukov/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://MalteKurz.github.io/authors/victor-chernozhukov/</guid>
       <description></description>
     </item>
     

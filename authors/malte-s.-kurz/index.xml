@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019-2020 Malte S. Kurz</copyright>
-    <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 07 Apr 2021 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://MalteKurz.github.io/authors/malte-s.-kurz/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DoubleML - An Object-Oriented Implementation of Double Machine Learning in Python</title>
+      <link>https://MalteKurz.github.io/publication/doubleml_py/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://MalteKurz.github.io/publication/doubleml_py/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DoubleML - An Object-Oriented Implementation of Double Machine Learning in R</title>
+      <link>https://MalteKurz.github.io/publication/doubleml_r/</link>
+      <pubDate>Wed, 17 Mar 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://MalteKurz.github.io/publication/doubleml_r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing the simplifying assumption in high-dimensional vine copulas</title>
+      <link>https://MalteKurz.github.io/publication/test_sa/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://MalteKurz.github.io/publication/test_sa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pitfalls in Risk Assessment Arising from Spurious Seasonality</title>
+      <link>https://MalteKurz.github.io/publication/spurious_seasonality/</link>
+      <pubDate>Sun, 14 Feb 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://MalteKurz.github.io/publication/spurious_seasonality/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Distributed Double Machine Learning with a Serverless Architecture</title>
@@ -72,24 +108,6 @@
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
       
       <guid>https://MalteKurz.github.io/publication/kalman_smoother/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Risk Assessment and Spurious Seasonality</title>
-      <link>https://MalteKurz.github.io/publication/spurious_seasonality/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://MalteKurz.github.io/publication/spurious_seasonality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Testing the simplifying assumption in high-dimensional vine copulas</title>
-      <link>https://MalteKurz.github.io/publication/test_sa/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://MalteKurz.github.io/publication/test_sa/</guid>
       <description></description>
     </item>
     
