@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019-2020 Malte S. Kurz</copyright>
-    <lastBuildDate>Wed, 07 Apr 2021 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Risk Assessment and Spurious Seasonality</title>
+      <link>https://MalteKurz.github.io/publication/spurious_seasonality/</link>
+      <pubDate>Fri, 04 Jun 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://MalteKurz.github.io/publication/spurious_seasonality/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DoubleML - An Object-Oriented Implementation of Double Machine Learning in Python</title>
@@ -34,15 +43,6 @@
       <pubDate>Mon, 08 Mar 2021 00:00:00 +0100</pubDate>
       
       <guid>https://MalteKurz.github.io/publication/test_sa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pitfalls in Risk Assessment Arising from Spurious Seasonality</title>
-      <link>https://MalteKurz.github.io/publication/spurious_seasonality/</link>
-      <pubDate>Sun, 14 Feb 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://MalteKurz.github.io/publication/spurious_seasonality/</guid>
       <description></description>
     </item>
     
