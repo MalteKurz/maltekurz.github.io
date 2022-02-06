@@ -6,9 +6,18 @@
     <description>Recent content in Malte S. Kurz on Malte S. Kurz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019-2020 Malte S. Kurz</copyright>
-    <lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0200</lastBuildDate>
+    <copyright>&amp;copy; 2019-2022 Malte S. Kurz</copyright>
+    <lastBuildDate>Thu, 03 Feb 2022 00:00:00 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DoubleML - An Object-Oriented Implementation of Double Machine Learning in Python</title>
+      <link>https://MalteKurz.github.io/publication/doubleml_py/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://MalteKurz.github.io/publication/doubleml_py/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Risk Assessment and Spurious Seasonality</title>
@@ -16,15 +25,6 @@
       <pubDate>Fri, 04 Jun 2021 00:00:00 +0200</pubDate>
       
       <guid>https://MalteKurz.github.io/publication/spurious_seasonality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DoubleML - An Object-Oriented Implementation of Double Machine Learning in Python</title>
-      <link>https://MalteKurz.github.io/publication/doubleml_py/</link>
-      <pubDate>Wed, 07 Apr 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://MalteKurz.github.io/publication/doubleml_py/</guid>
       <description></description>
     </item>
     
@@ -52,42 +52,6 @@
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0100</pubDate>
       
       <guid>https://MalteKurz.github.io/publication/doubleml_serverless/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Estimating Correlations for Asynchronously Observed Returns</title>
-      <link>https://MalteKurz.github.io/publication/asynchronous_correlations/</link>
-      <pubDate>Thu, 29 Aug 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://MalteKurz.github.io/publication/asynchronous_correlations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Python Implementation of Triangles for Visualising Long-Term Investment Metrics</title>
-      <link>https://MalteKurz.github.io/publication/return_triangles/</link>
-      <pubDate>Wed, 19 Jun 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://MalteKurz.github.io/publication/return_triangles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Trade Cost Optimisation II: Tracking Error and the Cutting Plane Algorithm</title>
-      <link>https://MalteKurz.github.io/publication/trade_cost_optimization_2/</link>
-      <pubDate>Wed, 29 May 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://MalteKurz.github.io/publication/trade_cost_optimization_2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Trade Cost Optimisation</title>
-      <link>https://MalteKurz.github.io/publication/trade_cost_optimization/</link>
-      <pubDate>Wed, 08 May 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://MalteKurz.github.io/publication/trade_cost_optimization/</guid>
       <description></description>
     </item>
     
