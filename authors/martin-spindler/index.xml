@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martin Spindler on Malte S. Kurz</title>
+    <link>https://MalteKurz.github.io/authors/martin-spindler/</link>
+    <description>Recent content in Martin Spindler on Malte S. Kurz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019-2022 Malte S. Kurz</copyright>
+    <lastBuildDate>Thu, 03 Feb 2022 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://MalteKurz.github.io/authors/martin-spindler/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DoubleML - An Object-Oriented Implementation of Double Machine Learning in Python</title>
+      <link>https://MalteKurz.github.io/publication/doubleml_py/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://MalteKurz.github.io/publication/doubleml_py/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DoubleML - An Object-Oriented Implementation of Double Machine Learning in R</title>
+      <link>https://MalteKurz.github.io/publication/doubleml_r/</link>
+      <pubDate>Wed, 17 Mar 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://MalteKurz.github.io/publication/doubleml_r/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019-2022 Malte S. Kurz</copyright>
-    <lastBuildDate>Thu, 06 Oct 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 16 Nov 2022 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://MalteKurz.github.io/authors/malte-s.-kurz/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Double machine learning for partial correlations and partial copulas</title>
+      <link>https://MalteKurz.github.io/publication/copula_orth/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://MalteKurz.github.io/publication/copula_orth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vine copula based knockoff generation for high-dimensional controlled variable selection</title>
+      <link>https://MalteKurz.github.io/publication/vineknockoffs/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://MalteKurz.github.io/publication/vineknockoffs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Testing the simplifying assumption in high-dimensional vine copulas</title>
